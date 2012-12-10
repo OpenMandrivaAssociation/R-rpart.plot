@@ -43,3 +43,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Mon Feb 20 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.2_2-1
++ Revision: 777619
+- Import R-rpart.plot
+- Import R-rpart.plot
+
