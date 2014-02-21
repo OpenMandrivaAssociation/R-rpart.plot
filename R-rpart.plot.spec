@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          1.4.3
-Release:          2
+Version:          1.4.4
+Release:          1
 Summary:          Plot rpart models.  An enhanced version of plot.rpart
 Group:            Sciences/Mathematics
 License:          GPL-3
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/rpart.plot_1.4-3.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/rpart.plot_1.4-4.tar.gz
 Requires:         R-rpart 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-rpart
 
@@ -50,5 +50,6 @@ rm -f %{buildroot}%{rlibdir}/R.css
 + Revision: 777619
 - Import R-rpart.plot
 - Import R-rpart.plot
+
 
 
