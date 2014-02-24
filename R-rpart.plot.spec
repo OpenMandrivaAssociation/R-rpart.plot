@@ -42,7 +42,7 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/R
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
-%{rlibdir}/%{packname}/libs
+# %{rlibdir}/%{packname}/libs
 %{rlibdir}/rpart.plot/slowtests/README.txt
 %{rlibdir}/rpart.plot/slowtests/code.in.rpart.report.with.prp.R
 %{rlibdir}/rpart.plot/slowtests/data.stagec
