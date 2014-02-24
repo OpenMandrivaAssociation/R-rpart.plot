@@ -1,3 +1,4 @@
+%define debug_package %{nil}
 %global packname  rpart.plot
 %global rlibdir  %{_libdir}/R/library
 
