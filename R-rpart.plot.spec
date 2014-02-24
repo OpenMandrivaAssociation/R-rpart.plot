@@ -43,6 +43,14 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+%{rlibdir}/rpart.plot/slowtests/README.txt
+%{rlibdir}/rpart.plot/slowtests/code.in.rpart.report.with.prp.R
+%{rlibdir}/rpart.plot/slowtests/data.stagec
+%{rlibdir}/rpart.plot/slowtests/make.bat
+%{rlibdir}/rpart.plot/slowtests/test.prp.R
+%{rlibdir}/rpart.plot/slowtests/test.prp.Rout.save
+%{rlibdir}/rpart.plot/slowtests/test.prp.save.ps
+%{rlibdir}/rpart.plot/slowtests/user-manual-figs.R
 
 
 %changelog
