@@ -4,7 +4,7 @@
 
 Name:             R-%{packname}
 Version:          1.4.4
-Release:          1
+Release:          2
 Summary:          Plot rpart models.  An enhanced version of plot.rpart
 Group:            Sciences/Mathematics
 License:          GPL-3
