@@ -8,7 +8,7 @@ Release:          2
 Summary:          Plot rpart models.  An enhanced version of plot.rpart
 Group:            Sciences/Mathematics
 License:          GPL-3
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/rpart.plot_1.4-4.tar.gz
 Requires:         R-rpart 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-rpart
